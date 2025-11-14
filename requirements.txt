@@ -1,1 +1,21 @@
+fastapi
+pydantic
+httpx
+mcp
+nltk
+pymongo
+PyMuPDF
+sentence-transformers
+starlette
+tqdm
+uvicorn
+numpy==1.26.4
+pymongo
+
+python-multipart
+
+ollama==0.6.0
+llama-index>=0.10.65
+llama-index-llms-ollama>=0.1.0
+llama-index-embeddings-huggingface>=0.1.0
 
