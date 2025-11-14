@@ -4,7 +4,6 @@ httpx
 mcp
 nltk
 pymongo
-PyMuPDF
 sentence-transformers
 starlette
 tqdm
